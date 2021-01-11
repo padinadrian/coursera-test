@@ -22,10 +22,10 @@ Copyright symbol: `&copy;`
 
 Result: &copy;
 
-Non-breaking space: `&nbsp;` this is a space that will never wrap lines
+Non-breaking space: `&nbsp;` this is a space that will never wrap lines.
 
 Misuse of Entity Reference: don't use `&nbsp;` to add extra spaces - use a span with a margin attribute instead!
 
 Instead of using quotes, you can use `&quote;` to render the " symbol.
 
-Example: Hello, my &quote;friend&quote;
+Example: Hello, my &quot;friend&quot;
