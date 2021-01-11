@@ -17,6 +17,21 @@ Example:
 </ul>
 ```
 
+Looks like this:
+
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item
+    <ul>
+    <li>Subitem A</li>
+    <li>Subitem B</li>
+    </ul>
+<li>Fourth item</li>
+</ul>
+
+## Tags
+
 `<ul>` stands for Unordered List.
 `<li>` stands for List Item.
 

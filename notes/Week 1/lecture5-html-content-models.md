@@ -16,7 +16,7 @@ HTML5 has 7 different content models
 
 These older models align well with existing CSS rules so it's important to remember this simplified model for reference.
 
-## <div> and <span>
+## div and span
 
 `<div>` is the most generic block-level element
 `<span>` is the most generic inline element
