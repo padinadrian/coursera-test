@@ -1,4 +1,4 @@
-# Lecture 6: Lists
+# Lecture 7: Lists
 
 Lists allow you to group related content. Think of a todo list, shopping list, etc.
 
