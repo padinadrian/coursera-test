@@ -12,9 +12,8 @@ Technologies that drive the web:
 * CSS: Style - Colors, layouts, font sizes, etc.
 * Javascript: Behavior - Adds dynamic functionality to a page.
 
-Summary:
+## Summary
 
-HTML
 * HTML annotates content and defines document structure.
 * There is a right and wrong syntax.
 * 3 core technologies are HTML, CSS, and JS

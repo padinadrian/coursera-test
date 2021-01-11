@@ -1,6 +1,6 @@
 # Basic HTML Document Structure
 
-See [doc-structure-before.html]
+See [doc-structure-before.html](doc-structure-before.html)
 
 meta tag is standalone - no closing tag
 title is required

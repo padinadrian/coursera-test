@@ -16,7 +16,6 @@
 
 ## Resources:
 * www.w3.org/TR/html5 - Official source of HTML5 standard.
-* caniuse.com - Tells you which browsers support which features.
-* validate.w3.org - Validate HTML to see if it is supported.
-* www
+* www.caniuse.com - Tells you which browsers support which features.
+* www.validate.w3.org - Validate HTML to see if it is supported.
 * Browser usage stats: There are too many browsers to check if your website is supported for all of them - it's important to know which browsers are popular to optimize for those.
