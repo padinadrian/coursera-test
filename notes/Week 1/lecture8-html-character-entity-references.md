@@ -28,4 +28,6 @@ Misuse of Entity Reference: don't use `&nbsp;` to add extra spaces - use a span 
 
 Instead of using quotes, you can use `&quote;` to render the " symbol.
 
-Example: Hello, my &quot;friend&quot;
+Example: `Hello, my &quot;friend&quot;`
+
+Result: Hello, my &quot;friend&quot;
